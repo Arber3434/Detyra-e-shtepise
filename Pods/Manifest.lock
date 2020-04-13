@@ -1,0 +1,24 @@
+PODS:
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+
+PODFILE CHECKSUM: 1645ca6d9f07b27a6bfcf29613899b97bb796211
+
+COCOAPODS: 1.9.1
